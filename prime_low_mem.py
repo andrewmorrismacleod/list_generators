@@ -32,5 +32,3 @@ def generate_primes(n):
             primes.append(3*i-1-i%2)    
 
     return primes
-
-
